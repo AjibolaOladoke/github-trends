@@ -109,3 +109,11 @@ Compiled and maintained from upstream [avgupta456/github-trends](https://github.
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [avgupta456/github-trends](https://github.com/avgupta456/github-trends) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
