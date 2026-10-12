@@ -1,9 +1,12 @@
-# GitHub Trends
+# github-trends
+
+## What This Is
+
+Every project needs a shelf of ready answers. product and engineering is one of those shelves, and github-trends is the entry on it - the notes, patterns and fixes we reuse when this kind of work comes up.
 
 ## Images
 
-[![github-trends](https://opengraph.githubassets.com/1/avgupta456/github-trends)](https://www.swifttechco.com)
-
+[![github-trends](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## SPECIAL: GitHub Wrapped
 
@@ -42,9 +45,9 @@ Unlike other projects which look at just your public repositories, GitHub Trends
 
 ## Website Workflow (Alpha)
 
-Visit [githubtrends.io](https://www.swifttechco.com) to create an account and get started!
+Visit githubtrends.io to create an account and get started!
 
-Have questions? Check out [the demo](https://www.swifttechco.com)!
+Have questions? Check out the demo!
 
 [![image](https://user-images.githubusercontent.com/16708871/138611082-105e4dbc-8a27-4f68-8045-f9d86c912429.png)](https://www.swifttechco.com)
 
@@ -52,15 +55,15 @@ Have questions? Check out [the demo](https://www.swifttechco.com)!
 
 ## API Workflow (Alpha)
 
-Alternatively, you can communicate directly with the API to create and customize your cards. Read [docs/API.md](https://www.swifttechco.com) to learn more about the API and customizations.
+Alternatively, you can communicate directly with the API to create and customize your cards. Read docs/API.md to learn more about the API and customizations.
 
 ## FAQ
 
-See [docs/FAQ.md](https://www.swifttechco.com).
+See docs/FAQ.md.
 
 ## Contributing
 
-See [docs/CONTRIBUTING.md](https://www.swifttechco.com).
+See docs/CONTRIBUTING.md.
 
 ---
 
@@ -72,14 +75,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [avgupta456/github-trends](https://github.com/avgupta456/github-trends) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
